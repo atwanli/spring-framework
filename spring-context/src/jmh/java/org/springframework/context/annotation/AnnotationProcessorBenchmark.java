@@ -101,5 +101,5 @@ public class AnnotationProcessorBenchmark {
 			super.setSpouse(spouse);
 		}
 	}
-
+	BeanDefinition
 }
